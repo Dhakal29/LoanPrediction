@@ -1,2 +1,2 @@
 # LoanPrediction
-Practice dataset of Analytics vidhya
+Exploratory Data Analysis 
